@@ -1,0 +1,10 @@
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\bin\Debug\EjemploTextbox.exe.config
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\bin\Debug\EjemploTextbox.exe
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\bin\Debug\EjemploTextbox.pdb
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.csprojAssemblyReference.cache
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.Form1.resources
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.Properties.Resources.resources
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.csproj.GenerateResource.cache
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.csproj.CoreCompileInputs.cache
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.exe
+D:\proyectos C#\EjemploTextbox\EjemploTextbox\obj\Debug\EjemploTextbox.pdb
